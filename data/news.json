@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-05-11T00:00:00.000Z",
+  "articles": [
+    {
+      "id": "welcome-ai",
+      "title": "Your AI reading dashboard is ready",
+      "description": "After you push this project to GitHub, the daily workflow can replace this sample item with fresh AI and technology news.",
+      "url": "https://news.ycombinator.com/",
+      "source": "Setup note",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-05-11T00:00:00.000Z"
+    },
+    {
+      "id": "welcome-tech",
+      "title": "Track useful tech stories without opening ten sites",
+      "description": "The dashboard fetches from RSS/API sources and keeps your read and saved status in this browser.",
+      "url": "https://github.com/HackerNews/API",
+      "source": "Setup note",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-05-11T00:00:00.000Z"
+    },
+    {
+      "id": "welcome-current-affairs",
+      "title": "Add more current-affairs sources as your interests grow",
+      "description": "Start with a small useful list, then add sources for India, world affairs, science, finance, or exams.",
+      "url": "https://open-platform.theguardian.com/",
+      "source": "Setup note",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-05-11T00:00:00.000Z"
+    }
+  ]
+}
