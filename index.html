@@ -4,16 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Daily Signal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="site-header">
-      <div>
-        <p class="eyebrow">Personal current affairs desk</p>
+    <header class="site-header" aria-label="Daily Signal masthead">
+      <div class="masthead-row">
         <h1>Daily Signal</h1>
-        <p class="lede">A focused daily reading board for AI, technology, and current affairs.</p>
+        <time id="todayDate" class="today-date">Today</time>
       </div>
-      <div class="progress-panel" aria-live="polite">
+      <p class="eyebrow">Personal current affairs desk</p>
+      <p class="lede">A quiet daily briefing for AI, technology, and the current affairs worth finishing.</p>
+      <div class="progress-panel" aria-live="polite" aria-label="Reading progress">
         <span id="progressText">0/0 read today</span>
         <div class="progress-track">
           <div id="progressBar" class="progress-bar"></div>
@@ -29,6 +36,7 @@
           <button class="filter-button" data-topic="tech">Tech</button>
           <button class="filter-button" data-topic="current-affairs">Current Affairs</button>
           <button class="filter-button" data-topic="saved">Saved</button>
+          <button class="filter-button" data-topic="unread">Unread</button>
         </div>
         <input id="searchInput" class="search-input" type="search" placeholder="Search today..." />
       </section>
@@ -50,7 +58,7 @@
 
       <section>
         <div class="section-heading">
-          <h2>Today’s Must-Read</h2>
+          <h2>Today's Must-Read</h2>
           <p>Mark each story as read after you open it.</p>
         </div>
         <div id="articleList" class="article-list"></div>

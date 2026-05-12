@@ -7,6 +7,7 @@ const progressBar = document.querySelector("#progressBar");
 const unreadCount = document.querySelector("#unreadCount");
 const savedCount = document.querySelector("#savedCount");
 const updatedAt = document.querySelector("#updatedAt");
+const todayDate = document.querySelector("#todayDate");
 const searchInput = document.querySelector("#searchInput");
 const topicFilters = document.querySelector("#topicFilters");
 
@@ -42,7 +43,11 @@ function formatDate(value) {
 function matchesFilters(article) {
   const id = articleId(article);
   const query = searchInput.value.trim().toLowerCase();
-  const topicMatch = activeTopic === "all" || article.topic === activeTopic || (activeTopic === "saved" && state.saved[id]);
+  const topicMatch =
+    activeTopic === "all" ||
+    article.topic === activeTopic ||
+    (activeTopic === "saved" && state.saved[id]) ||
+    (activeTopic === "unread" && !state.read[id]);
   const queryMatch = !query || `${article.title} ${article.source} ${article.description}`.toLowerCase().includes(query);
   return topicMatch && queryMatch;
 }
@@ -63,7 +68,7 @@ function render() {
       <div>
         <span class="article-topic">${article.topicLabel || article.topic}</span>
         <h3><a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a></h3>
-        <p class="article-meta">${article.source || "Source"} · ${formatDate(article.publishedAt)}</p>
+        <p class="article-meta">${article.source || "Source"} &middot; ${formatDate(article.publishedAt)}</p>
         <p class="article-description">${article.description || "Open the story for the full details."}</p>
       </div>
       <button class="save-button${isSaved ? " saved" : ""}" type="button" aria-label="Save article">${isSaved ? "★" : "☆"}</button>
@@ -124,5 +129,12 @@ topicFilters.addEventListener("click", (event) => {
 });
 
 searchInput.addEventListener("input", render);
+
+todayDate.textContent = new Intl.DateTimeFormat("en-IN", {
+  weekday: "short",
+  day: "numeric",
+  month: "short",
+  year: "numeric",
+}).format(new Date());
 
 loadArticles();
