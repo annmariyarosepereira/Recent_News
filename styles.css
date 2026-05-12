@@ -89,22 +89,33 @@ h1 {
 }
 
 .theme-toggle {
-  display: inline-grid;
-  width: 28px;
-  height: 28px;
-  place-items: center;
-  border: 0;
-  padding: 0;
-  background: transparent;
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  gap: 7px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 0 12px;
+  background: var(--bg-soft);
   color: var(--accent);
   cursor: pointer;
-  font-size: 20px;
-  line-height: 1;
-  transition: color 0.3s, transform 0.2s ease;
+  transition: background 0.3s, border-color 0.3s, color 0.3s;
 }
 
 .theme-toggle:hover {
-  transform: rotate(18deg);
+  border-color: var(--accent);
+}
+
+.theme-icon {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.theme-text {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .header-grid {

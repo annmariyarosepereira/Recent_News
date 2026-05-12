@@ -15,7 +15,7 @@ const topicFilters = document.querySelector("#topicFilters");
 let articles = [];
 let activeTopic = "all";
 let state = loadState();
-let currentTheme = localStorage.getItem("daily-signal-theme") || "light";
+let currentTheme = localStorage.getItem("daily-signal-theme") || "dark";
 
 function loadState() {
   try {
@@ -136,7 +136,10 @@ searchInput.addEventListener("input", render);
 
 function applyTheme(theme) {
   document.documentElement.dataset.theme = theme;
-  themeToggle.textContent = "◑";
+  const icon = themeToggle.querySelector(".theme-icon");
+  if (icon) {
+    icon.textContent = theme === "dark" ? "☾" : "☀";
+  }
   themeToggle.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
   localStorage.setItem("daily-signal-theme", theme);
 }
