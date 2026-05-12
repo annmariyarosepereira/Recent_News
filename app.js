@@ -8,12 +8,14 @@ const unreadCount = document.querySelector("#unreadCount");
 const savedCount = document.querySelector("#savedCount");
 const updatedAt = document.querySelector("#updatedAt");
 const todayDate = document.querySelector("#todayDate");
+const themeToggle = document.querySelector("#themeToggle");
 const searchInput = document.querySelector("#searchInput");
 const topicFilters = document.querySelector("#topicFilters");
 
 let articles = [];
 let activeTopic = "all";
 let state = loadState();
+let currentTheme = localStorage.getItem("daily-signal-theme") || "light";
 
 function loadState() {
   try {
@@ -130,6 +132,18 @@ topicFilters.addEventListener("click", (event) => {
 
 searchInput.addEventListener("input", render);
 
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  themeToggle.textContent = theme === "dark" ? "Light" : "Dark";
+  themeToggle.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
+  localStorage.setItem("daily-signal-theme", theme);
+}
+
+themeToggle.addEventListener("click", () => {
+  currentTheme = currentTheme === "dark" ? "light" : "dark";
+  applyTheme(currentTheme);
+});
+
 todayDate.textContent = new Intl.DateTimeFormat("en-IN", {
   weekday: "short",
   day: "numeric",
@@ -137,4 +151,5 @@ todayDate.textContent = new Intl.DateTimeFormat("en-IN", {
   year: "numeric",
 }).format(new Date());
 
+applyTheme(currentTheme);
 loadArticles();

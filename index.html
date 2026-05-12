@@ -16,14 +16,21 @@
     <header class="site-header" aria-label="Daily Signal masthead">
       <div class="masthead-row">
         <h1>Daily Signal</h1>
-        <time id="todayDate" class="today-date">Today</time>
+        <div class="header-actions">
+          <time id="todayDate" class="today-date">Today</time>
+          <button id="themeToggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">Dark</button>
+        </div>
       </div>
-      <p class="eyebrow">Personal current affairs desk</p>
-      <p class="lede">A quiet daily briefing for AI, technology, and the current affairs worth finishing.</p>
-      <div class="progress-panel" aria-live="polite" aria-label="Reading progress">
-        <span id="progressText">0/0 read today</span>
-        <div class="progress-track">
-          <div id="progressBar" class="progress-bar"></div>
+      <div class="header-grid">
+        <div>
+          <p class="eyebrow">Personal current affairs desk</p>
+          <p class="lede">A quiet daily briefing for AI, technology, and the current affairs worth finishing.</p>
+        </div>
+        <div class="progress-panel" aria-live="polite" aria-label="Reading progress">
+          <span id="progressText">0/0 read today</span>
+          <div class="progress-track">
+            <div id="progressBar" class="progress-bar"></div>
+          </div>
         </div>
       </div>
     </header>
