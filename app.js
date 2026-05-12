@@ -73,7 +73,9 @@ function render() {
         <p class="article-meta">${article.source || "Source"} &middot; ${formatDate(article.publishedAt)}</p>
         <p class="article-description">${article.description || "Open the story for the full details."}</p>
       </div>
-      <button class="save-button${isSaved ? " saved" : ""}" type="button" aria-label="Save article">${isSaved ? "★" : "☆"}</button>
+      <button class="save-button${isSaved ? " saved" : ""}" type="button" aria-label="Save article">${
+        isSaved ? "&starf;" : "&star;"
+      }</button>
     `;
 
     card.querySelector(".read-check").addEventListener("change", (event) => {
@@ -134,7 +136,7 @@ searchInput.addEventListener("input", render);
 
 function applyTheme(theme) {
   document.documentElement.dataset.theme = theme;
-  themeToggle.textContent = theme === "dark" ? "Light" : "Dark";
+  themeToggle.textContent = "◑";
   themeToggle.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
   localStorage.setItem("daily-signal-theme", theme);
 }
