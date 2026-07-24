@@ -1,85 +1,245 @@
 {
-  "updatedAt": "2026-07-23T03:51:12.517Z",
+  "updatedAt": "2026-07-24T03:50:39.059Z",
   "articles": [
     {
-      "id": "tech-https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "title": "Restructuring GitHub's bug bounty program",
-      "description": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 10\n# Comments: 3",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-23T02:28:23.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmxPOVU3Zmh2dVZ3Q19KRzU3anhCemtsS09QUnVoY24tZ1M1U2xNV2hZOUI1U01DdjhMei1SbzE3b1V0bUtaem9xZW1MYllnXy1iVTJPSEVMMVY3cWFuekNLTGNWQTluWl94Vy1Ic1B0MDZKSUdldGV0Y0tJQVE4TGRjSEhvazVtbFNkc3ZLa0JXaUhUQzBJeE93OVZRaG9fZzJMLVMzMS1LQzhiTXgtUlFLckFhX2tSMkJWLVJuUTNrcUc3b1VBSXdyTTdvSWVZNzRF?oc=5",
+      "title": "How AI is changing business school | MBA applications, learning & careers - Graduate Management Admission Council",
+      "description": "How AI is changing business school | MBA applications, learning & careers&nbsp;&nbsp;Graduate Management Admission Council",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmxPOVU3Zmh2dVZ3Q19KRzU3anhCemtsS09QUnVoY24tZ1M1U2xNV2hZOUI1U01DdjhMei1SbzE3b1V0bUtaem9xZW1MYllnXy1iVTJPSEVMMVY3cWFuekNLTGNWQTluWl94Vy1Ic1B0MDZKSUdldGV0Y0tJQVE4TGRjSEhvazVtbFNkc3ZLa0JXaUhUQzBJeE93OVZRaG9fZzJMLVMzMS1LQzhiTXgtUlFLckFhX2tSMkJWLVJuUTNrcUc3b1VBSXdyTTdvSWVZNzRF?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-23T12:26:11.000Z"
     },
     {
-      "id": "tech-https://arxiv.org/abs/2607.20386",
-      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "description": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 4\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2607.20386",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-23T01:58:18.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
+      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO",
+      "description": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI&nbsp;&nbsp;UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-23T17:33:30.000Z"
     },
     {
-      "id": "tech-https://petals.dev/",
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "description": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 66\n# Comments: 24",
-      "url": "https://petals.dev/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-23T01:33:12.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMia0FVX3lxTE4wdVY2NFZxeUN3T0FoVWY5dDhiWUk0OENZcEl2N0NzcEJyRzVnaXU1RVdpaXZhbWJZcUJaczkxcVJPTWF5WEItZjdVX1BKdnZwNkt0Rjh6bnlrcXNWb3h5ZlJuTDZ4UjdSQmFV?oc=5",
+      "title": "CDSCO formalises algorithm change protocol to streamline AI/ML software updates - Pharmabiz.com",
+      "description": "CDSCO formalises algorithm change protocol to streamline AI/ML software updates&nbsp;&nbsp;Pharmabiz.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wdVY2NFZxeUN3T0FoVWY5dDhiWUk0OENZcEl2N0NzcEJyRzVnaXU1RVdpaXZhbWJZcUJaczkxcVJPTWF5WEItZjdVX1BKdnZwNkt0Rjh6bnlrcXNWb3h5ZlJuTDZ4UjdSQmFV?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-24T02:30:57.000Z"
     },
     {
-      "id": "tech-https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-      "description": "Article URL: https://simonwillison.net/2026/Jul/22/openai-cyberattack/\nComments URL: https://news.ycombinator.com/item?id=49015639\nPoints: 52\n# Comments: 37",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-23T01:16:14.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiigFBVV95cUxNUmpmcktCOFFGS0tVMXgwNHlyTG5TN3BEejhoX3ZESXVZa0FZcGhKczlRaUY5R1dvZmhNQ0RJNEJCUUYzX2RwMTBWSlNUaFRWSWZRdWt5cVZTOG5jTUdIdVloc2h4NFAyNE1xM3JnTU5IUXhETWlmbDY0YXhVRDlvenBKNF9BcWw1aFE?oc=5",
+      "title": "What’s in the Black Box? Inscrutability vs. Explainability - Communications of the ACM",
+      "description": "What’s in the Black Box? Inscrutability vs. Explainability&nbsp;&nbsp;Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUmpmcktCOFFGS0tVMXgwNHlyTG5TN3BEejhoX3ZESXVZa0FZcGhKczlRaUY5R1dvZmhNQ0RJNEJCUUYzX2RwMTBWSlNUaFRWSWZRdWt5cVZTOG5jTUdIdVloc2h4NFAyNE1xM3JnTU5IUXhETWlmbDY0YXhVRDlvenBKNF9BcWw1aFE?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-23T17:59:17.000Z"
     },
     {
-      "id": "tech-https://codeberg.org/Codeberg/org/pulls/1254",
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "description": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254\nComments URL: https://news.ycombinator.com/item?id=49015588\nPoints: 146\n# Comments: 165",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-23T01:06:56.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3hTRjRsUmJSMWxWeDVEcHotNGgzVnF1ZGJ2dVpKTGJwV0paMTBGeEtFRTVMUHJfUE1UX09FNU4wVzVMSktrUzk4dFFuYVRRMFZVM2VFMlBkTHFXVFQtUXRVMXpCSHpzWkNaSVNQNm5xdGdIXzlhXzZYUUVOc2E4bnNqQUJBV1ZyeFp6eXdNb1pnWDA?oc=5",
+      "title": "NATIONAL SKILL ACADEMY INVITES APPLICATIONS FOR ONLINE AI COURSES - The Rahnuma Daily",
+      "description": "NATIONAL SKILL ACADEMY INVITES APPLICATIONS FOR ONLINE AI COURSES&nbsp;&nbsp;The Rahnuma Daily",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3hTRjRsUmJSMWxWeDVEcHotNGgzVnF1ZGJ2dVpKTGJwV0paMTBGeEtFRTVMUHJfUE1UX09FNU4wVzVMSktrUzk4dFFuYVRRMFZVM2VFMlBkTHFXVFQtUXRVMXpCSHpzWkNaSVNQNm5xdGdIXzlhXzZYUUVOc2E4bnNqQUJBV1ZyeFp6eXdNb1pnWDA?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-24T00:29:45.000Z"
     },
     {
-      "id": "tech-https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "description": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 88\n# Comments: 20",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-22T21:55:34.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHZrV3dNakVhMGhMb0JrQWpXUmxmMnRmVEJZdTJGdnhSN3FSX19JVXY0Si1peTMzb25FODNvYnZzODhxaVppVU1MaWVkcjJGRnI5X0dBS2xIcGU0VUt1UDQ1OHNrWFBpbDFZcW9KVWdtOGJNTHFfZUhJWHdtcFhvQ3BzVjRwQnlaYmxQZmQzcTY3UF9HUWV5MmpJRnNmbjVHbXNkd0VWRUtTZUJSa0hVYnJOZjdNdmlDMVVDeUxWZk5tc2lEWHBGeE9n0gHXAUFVX3lxTE5hTi1vSmpmVHZMSGdNbFUwOU1NQ2lCU1ZvVlVkVk5vQmZGRDN3WjNsSFpQSWMxcEVnU09Bbml1ajBFRUMtU1djQUllQVg5eS0tY25UUXFocXlSZHB0ZWI2RXV6U21iXzdMWHVDanlqdmZMWFdPTmlTRzFKSUVnUXBSRXU5OHRIVDhQbkE1MnF0SmltNkFucWwxcU9hT0R1cWI2REEycGIwWkZrU2l4MzgzUWtBclV3R2MtZF9aWGZHaWZGeVVlNkk1Y3JuU3k0ZTRscXI0dFZj?oc=5",
+      "title": "NIT-T records 80% placements, expands AI curriculum and PG programmes - The New Indian Express",
+      "description": "NIT-T records 80% placements, expands AI curriculum and PG programmes&nbsp;&nbsp;The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHZrV3dNakVhMGhMb0JrQWpXUmxmMnRmVEJZdTJGdnhSN3FSX19JVXY0Si1peTMzb25FODNvYnZzODhxaVppVU1MaWVkcjJGRnI5X0dBS2xIcGU0VUt1UDQ1OHNrWFBpbDFZcW9KVWdtOGJNTHFfZUhJWHdtcFhvQ3BzVjRwQnlaYmxQZmQzcTY3UF9HUWV5MmpJRnNmbjVHbXNkd0VWRUtTZUJSa0hVYnJOZjdNdmlDMVVDeUxWZk5tc2lEWHBGeE9n0gHXAUFVX3lxTE5hTi1vSmpmVHZMSGdNbFUwOU1NQ2lCU1ZvVlVkVk5vQmZGRDN3WjNsSFpQSWMxcEVnU09Bbml1ajBFRUMtU1djQUllQVg5eS0tY25UUXFocXlSZHB0ZWI2RXV6U21iXzdMWHVDanlqdmZMWFdPTmlTRzFKSUVnUXBSRXU5OHRIVDhQbkE1MnF0SmltNkFucWwxcU9hT0R1cWI2REEycGIwWkZrU2l4MzgzUWtBclV3R2MtZF9aWGZHaWZGeVVlNkk1Y3JuU3k0ZTRscXI0dFZj?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-24T03:18:09.000Z"
     },
     {
-      "id": "tech-https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-      "description": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 42\n# Comments: 10",
-      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-07-22T21:54:30.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMizAFBVV95cUxOM2otNVBvaXd1SkZEazNkNlNXeVRxTVdkRFQtUHAwclVJbUhjTUN1cTVhR2dwNGpMc00wTk1iNDV3MHRxd2poWWp2V0l1LVpweTVIVm1jdDR5V1RtSWxQZ3hPSXptdXNtck4xZDh5bHZBaGhtNVRKZ2F4U3BPczZNZXJqbnd6S1c4cU9hUkpZV2NLM1FvWGs4ZjNjdlpJal9VYzZvVXpfendGMXBzYmZhdmRTakxNVXpZXzg2REVSdms1ZFVMSUI4RGt0Qm3SAcwBQVVfeXFMTjNqLTVQb2l3dUpGRGszZDZTV3lUcU1XZERULVBwMHJVSW1IY01DdXE1YUdncDRqTHNNME5NYjQ1dzB0cXdqaFlqdldJdS1acHk1SFZtY3Q0eVdUbUlsUGd4T0l6bXVzbXJOMWQ4eWx2QWhobTVUSmdheFNwT3M2TWVyam53ektXOHFPYVJKWVdjSzNRb1hrOGYzY3ZaSWpfVWM2b1V6X3p3RjFwc2JmYXZkU2pMTVV6WV84NkRFUnZrNWRVTElCOERrdEJt?oc=5",
+      "title": "NIT-T launches new degrees, AI-based learning in classes - The Hindu",
+      "description": "NIT-T launches new degrees, AI-based learning in classes&nbsp;&nbsp;The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM2otNVBvaXd1SkZEazNkNlNXeVRxTVdkRFQtUHAwclVJbUhjTUN1cTVhR2dwNGpMc00wTk1iNDV3MHRxd2poWWp2V0l1LVpweTVIVm1jdDR5V1RtSWxQZ3hPSXptdXNtck4xZDh5bHZBaGhtNVRKZ2F4U3BPczZNZXJqbnd6S1c4cU9hUkpZV2NLM1FvWGs4ZjNjdlpJal9VYzZvVXpfendGMXBzYmZhdmRTakxNVXpZXzg2REVSdms1ZFVMSUI4RGt0Qm3SAcwBQVVfeXFMTjNqLTVQb2l3dUpGRGszZDZTV3lUcU1XZERULVBwMHJVSW1IY01DdXE1YUdncDRqTHNNME5NYjQ1dzB0cXdqaFlqdldJdS1acHk1SFZtY3Q0eVdUbUlsUGd4T0l6bXVzbXJOMWQ4eWx2QWhobTVUSmdheFNwT3M2TWVyam53ektXOHFPYVJKWVdjSzNRb1hrOGYzY3ZaSWpfVWM2b1V6X3p3RjFwc2JmYXZkU2pMTVV6WV84NkRFUnZrNWRVTElCOERrdEJt?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-23T13:15:55.000Z"
     },
     {
-      "id": "tech-http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "title": "Malleable Computing, Emacs, and You",
-      "description": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 78\n# Comments: 22",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "id": "ai-https://news.google.com/rss/articles/CBMi4gFBVV95cUxObFVJT0VDSmhLbTdZUmVqZng3NkNlUFZlVElMTUgyTmlEc3lVYzJNNHZXX29aZUZmQ0pfYU1UMWxBcDZtVTNGMXdqSDBncko4MUo1aGpaWjlGTXZFc2tISnZGM0xETmdtLWFNX2JoV21KTjZmZDluMVdyX0N2dnpKeFpiMkhQcjdRSG5vN2ROcmlCaUFlQmpfY0lTZ3JmUVdGTFBEWWoxNnBSeWxvLWxsSXlTamIzWDlJb0FnV3dTM0R3bzFURkliZHp3SUY2eUxPUldOSlNmS1lXem9tR1M3dzJR?oc=5",
+      "title": "Real-Time Artificial Intelligence for Early Sepsis Prediction Using Dynamic Clinical Data: A Systematic Review - Cureus",
+      "description": "Real-Time Artificial Intelligence for Early Sepsis Prediction Using Dynamic Clinical Data: A Systematic Review&nbsp;&nbsp;Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObFVJT0VDSmhLbTdZUmVqZng3NkNlUFZlVElMTUgyTmlEc3lVYzJNNHZXX29aZUZmQ0pfYU1UMWxBcDZtVTNGMXdqSDBncko4MUo1aGpaWjlGTXZFc2tISnZGM0xETmdtLWFNX2JoV21KTjZmZDluMVdyX0N2dnpKeFpiMkhQcjdRSG5vN2ROcmlCaUFlQmpfY0lTZ3JmUVdGTFBEWWoxNnBSeWxvLWxsSXlTamIzWDlJb0FnV3dTM0R3bzFURkliZHp3SUY2eUxPUldOSlNmS1lXem9tR1M3dzJR?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-07-23T04:52:59.000Z"
+    },
+    {
+      "id": "tech-https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+      "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+      "description": "Article URL: https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/\nComments URL: https://news.ycombinator.com/item?id=49030547\nPoints: 10\n# Comments: 5",
+      "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-07-22T21:15:26.000Z"
+      "publishedAt": "2026-07-24T02:18:23.000Z"
+    },
+    {
+      "id": "tech-https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+      "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+      "description": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=49030474\nPoints: 29\n# Comments: 8",
+      "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-24T02:06:31.000Z"
+    },
+    {
+      "id": "tech-http://visual6502.org/JSSim/index.html",
+      "title": "The Visual 6502",
+      "description": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 66\n# Comments: 19",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-23T23:36:42.000Z"
+    },
+    {
+      "id": "tech-https://arxiv.org/abs/2507.09369",
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "description": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 62\n# Comments: 50",
+      "url": "https://arxiv.org/abs/2507.09369",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-23T22:51:13.000Z"
+    },
+    {
+      "id": "tech-https://jdan.github.io/98.css/#status-bar",
+      "title": "98.css",
+      "description": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 312\n# Comments: 63",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-23T22:30:29.000Z"
+    },
+    {
+      "id": "tech-https://lwn.net/Articles/1084545/",
+      "title": "Mourning Dan Williams",
+      "description": "Article URL: https://lwn.net/Articles/1084545/\nComments URL: https://news.ycombinator.com/item?id=49027052\nPoints: 38\n# Comments: 0",
+      "url": "https://lwn.net/Articles/1084545/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-23T19:46:28.000Z"
+    },
+    {
+      "id": "tech-https://news.ycombinator.com/item?id=49026810",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "description": "I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.That hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.One thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.There are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.I built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (https://echo.tracerml.ai/docs/api) so the system can be tested outside the evaluation setup.Here is a short/high level video on how it works: https://www.youtube.com/watch?v=lJFJSvOdXhgI wrote up the evaluation methodology, individual model results, costs and current limitations here: https://echo.tracerml.ai/evalI would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive.\n\nComments URL: https://news.ycombinator.com/item?id=49026810\nPoints: 263\n# Comments: 126",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-23T19:26:01.000Z"
+    },
+    {
+      "id": "tech-https://lukekanies.com/writing/building-on-atproto/",
+      "title": "Building on ATProto",
+      "description": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 137\n# Comments: 66",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-23T18:23:50.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLWhzNW1IM1BhRjh4aWhVaG1hOUxxTGtpWmVtNUZhS29hcEszOHhRZHlJZ2Z3TVNvWTZUbVRGUG1oWUZ1eTlSVFJjNnlrVXI5cW4wRWVWU1QxaGtWbjlhcHJvcUZpaVBJOHM3SUxSUm5YWHFLV1Y4OFVpS2JJWkpJXzhEM005SThIWWtFZEh1RFZaTjBPUE54dDdYcmZDdWgzN0F6aExraGp1Nm1Hel8tU1pYWWtUc3BydU4xUi1EaW1KZVpqQjhXYVN1SGVyYnR0RnlmYk1ad05LMC1EYjBMeHpR?oc=5",
+      "title": "School assembly news headlines today- July 24: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- July 24: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLWhzNW1IM1BhRjh4aWhVaG1hOUxxTGtpWmVtNUZhS29hcEszOHhRZHlJZ2Z3TVNvWTZUbVRGUG1oWUZ1eTlSVFJjNnlrVXI5cW4wRWVWU1QxaGtWbjlhcHJvcUZpaVBJOHM3SUxSUm5YWHFLV1Y4OFVpS2JJWkpJXzhEM005SThIWWtFZEh1RFZaTjBPUE54dDdYcmZDdWgzN0F6aExraGp1Nm1Hel8tU1pYWWtUc3BydU4xUi1EaW1KZVpqQjhXYVN1SGVyYnR0RnlmYk1ad05LMC1EYjBMeHpR?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T12:05:58.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXN1WThsamNBbTRnZGd4NTZGd2J1bHRxa21vTmFLYlVQYWRGWVFhaS1ta3hPZk9KcXVjWk5QLXZxcFQtMFRPU1lSU3RPZDhTV09MRTNrT3RDeEg0MmlPdDFNc0RwQmNuUFh2OTBKWUVicC1FZXN0bGFXNXpnVkV6ZGpQSWZ3cVl6VElGN2ZISlNldkRZVHVVTk84MkQ1QkxXT0I3RGJOM0pQbF9xYXIxZWdyNTRvYlowcVhnRw?oc=5",
+      "title": "India’s New Terror Battlefield: Radicalisation is No Longer Imported - It is Being Streamed Online - Goa Chronicle",
+      "description": "India’s New Terror Battlefield: Radicalisation is No Longer Imported - It is Being Streamed Online&nbsp;&nbsp;Goa Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXN1WThsamNBbTRnZGd4NTZGd2J1bHRxa21vTmFLYlVQYWRGWVFhaS1ta3hPZk9KcXVjWk5QLXZxcFQtMFRPU1lSU3RPZDhTV09MRTNrT3RDeEg0MmlPdDFNc0RwQmNuUFh2OTBKWUVicC1FZXN0bGFXNXpnVkV6ZGpQSWZ3cVl6VElGN2ZISlNldkRZVHVVTk84MkQ1QkxXT0I3RGJOM0pQbF9xYXIxZWdyNTRvYlowcVhnRw?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T12:58:48.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ05GQ0RRb1ZJWFZRSFlCSlUtbVlnUnU3ZkFFRG5md29uTjhkSzY5WXhHU0lqZGxyYnpTaWFhN3AzVzlMbWFnd19yWU9xR0RNUVBicWVIQWx4bmhXNDdESFc2elZKWkdVR0JqRjktY2tCamJ2ZmNnNmRUQ2NSaGVicDlpQ1dzcXBJSnVrdDR5c1ZFWUNQWU9wcEtzT2JnOG1NQzFzYXJMbzhYSEV4Z2dkRVVQVmpGZWtDZFdJQXQ5eTRVbjNCamt1eDNlNll5ZEp4SXdEUHUyZ3l5cmNLdk56ZURIc0NLaG1kTjdoa2hNWkZZa3lpNGJSRDVUcGZjaWIzUkZnbHZJRFhSMHRfVGUtdXJ3elfSAZsCQVVfeXFMTmFkM2FMVUNRWlpaN0NFaU1sU1UxSmR4STlnOThwVl9GejJLYkZFOVdUTFNyWW05azdZWDduZHphTEI3UjBlaExmWEktdE55YjIwUVBOLWtTU0xpLXpGTDJwX2RIMERiZXZSVFdTNDk0Uk5pX1JPeHBkZU9IbEE5b0NqVEV2bGphZ25JbV84OHcxYy1XZ2l5QWw0UW50RDE4ZkxyZ082WUtKRUNLNnhYVkV3UDA2Y2puYzdhNTNTWHAtQ2R4bEI2TV9ZOXlHcVlKNThqUDVWLXpZenJmYnRaeU1RcUhWOWNlRHo0LWhtczBqaU9SLWgtTnBjX3ExTUtGY2VWV2l6U1NUZFc1T25JM1JkY1hJTjlVcHJfOA?oc=5",
+      "title": "School Assembly News Headlines Today, July 24, 2026: PM Modi announces fast-track courts, CWG 2026 begins, top national and world updates - The Indian Express",
+      "description": "School Assembly News Headlines Today, July 24, 2026: PM Modi announces fast-track courts, CWG 2026 begins, top national and world updates&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ05GQ0RRb1ZJWFZRSFlCSlUtbVlnUnU3ZkFFRG5md29uTjhkSzY5WXhHU0lqZGxyYnpTaWFhN3AzVzlMbWFnd19yWU9xR0RNUVBicWVIQWx4bmhXNDdESFc2elZKWkdVR0JqRjktY2tCamJ2ZmNnNmRUQ2NSaGVicDlpQ1dzcXBJSnVrdDR5c1ZFWUNQWU9wcEtzT2JnOG1NQzFzYXJMbzhYSEV4Z2dkRVVQVmpGZWtDZFdJQXQ5eTRVbjNCamt1eDNlNll5ZEp4SXdEUHUyZ3l5cmNLdk56ZURIc0NLaG1kTjdoa2hNWkZZa3lpNGJSRDVUcGZjaWIzUkZnbHZJRFhSMHRfVGUtdXJ3elfSAZsCQVVfeXFMTmFkM2FMVUNRWlpaN0NFaU1sU1UxSmR4STlnOThwVl9GejJLYkZFOVdUTFNyWW05azdZWDduZHphTEI3UjBlaExmWEktdE55YjIwUVBOLWtTU0xpLXpGTDJwX2RIMERiZXZSVFdTNDk0Uk5pX1JPeHBkZU9IbEE5b0NqVEV2bGphZ25JbV84OHcxYy1XZ2l5QWw0UW50RDE4ZkxyZ082WUtKRUNLNnhYVkV3UDA2Y2puYzdhNTNTWHAtQ2R4bEI2TV9ZOXlHcVlKNThqUDVWLXpZenJmYnRaeU1RcUhWOWNlRHo0LWhtczBqaU9SLWgtTnBjX3ExTUtGY2VWV2l6U1NUZFc1T25JM1JkY1hJTjlVcHJfOA?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T12:58:14.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiygFBVV95cUxOUk5ZRU5OdGxSbV9ueVBnUzVSbzdyZXl3WjNsSU5hTU5wZVFHSlFxQ2dqRFdjLUw0dTVCRnBlOTNNcVJaOTlhN2xHYUJSNFVJSzR4NnRCSVQtTFpqTkMybFZCVEIzVkZsN0VkWmZLeFFkT1ZkSWxIN1hISGpESEFSeTMxdHg0NHphZTI5cDRlLTE2TkFQbjh3a3E2UU1Fb3ZlN1ZOQk1RS1RXaTJCLTJxREhlSHlLMWxmbnBSRzRzYmM1VXdod0FYWlB30gHPAUFVX3lxTE5KSWQ3MnRsTDBNeThnQm1ldVhDbjExek92bklHVlNkRUFnUmlFaDRSMlBWbXV1UEVqYkVYbXE5QU52bmJSSWhkeVdneFpfbkhDRTZEWUN1V0ZkUG1EQW10ZHlWcXpjTmc1WlNXUGVrSkl6cmNkVnhoUU9oNmhMTENRSFY5V3RyUThrZTFFS0dCU2lSci01TnlmLUlRN043QTZYQXZGcS0yRmJSbUkwQkRXZ1A1NTEzMzFVVzVWV0lnYzlLbVJacjZNWkxtcUZuTQ?oc=5",
+      "title": "PM Modi's Paper leak crackdown | US-Iran war escalation | China-India talks & global Crisis - WION",
+      "description": "PM Modi's Paper leak crackdown | US-Iran war escalation | China-India talks & global Crisis&nbsp;&nbsp;WION",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUk5ZRU5OdGxSbV9ueVBnUzVSbzdyZXl3WjNsSU5hTU5wZVFHSlFxQ2dqRFdjLUw0dTVCRnBlOTNNcVJaOTlhN2xHYUJSNFVJSzR4NnRCSVQtTFpqTkMybFZCVEIzVkZsN0VkWmZLeFFkT1ZkSWxIN1hISGpESEFSeTMxdHg0NHphZTI5cDRlLTE2TkFQbjh3a3E2UU1Fb3ZlN1ZOQk1RS1RXaTJCLTJxREhlSHlLMWxmbnBSRzRzYmM1VXdod0FYWlB30gHPAUFVX3lxTE5KSWQ3MnRsTDBNeThnQm1ldVhDbjExek92bklHVlNkRUFnUmlFaDRSMlBWbXV1UEVqYkVYbXE5QU52bmJSSWhkeVdneFpfbkhDRTZEWUN1V0ZkUG1EQW10ZHlWcXpjTmc1WlNXUGVrSkl6cmNkVnhoUU9oNmhMTENRSFY5V3RyUThrZTFFS0dCU2lSci01TnlmLUlRN043QTZYQXZGcS0yRmJSbUkwQkRXZ1A1NTEzMzFVVzVWV0lnYzlLbVJacjZNWkxtcUZuTQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T05:42:00.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDZzbGowRWtWRGRoYXI3NURpOC1KNmtKRXZGWXB4em5sbWtOZWVBa1h1WjZ2ZDVIQVZ6NHJoem1WZmt0OHN0eHlJdG5QMGR0YXp6WFZZMFV0Tm1MLW03aDlKSG43RkxnbGg5NFdDa0tDZnVuS1dOU1pTaVhWQTBNdWFNNlNXQ0l1WE9TUTd5OHBLemwwWnNacmxiWjVoeGNTWGpBTm9nZmp2Z3JPdVNfT9IBtwFBVV95cUxNLW4wZ3YzajRVeF8tUy1VcDJlR0t4ckE1NkhoU1JnbEFrblV6YURYLXhuc1VzVjhzYVQyRlFmUEptU2tTLW1SYmo4eVozU1RUS0YwZmh0OUZsWjJ3QzlfLTlnMXVNNDBlOUFsYVdzb1FlREw1Rjd6VkFrVUZ3SS0xOUZRbFJLSG9LMHduaWxGc0FXTlNWTHlWWGFJNFc3TXFvZ19uamxncnN1aUYtR21QMUxHd3F1Vmc?oc=5",
+      "title": "Lovlina Borgohain Secures India's First CWG 2026 Medal Before Opening Ceremony - Jagran Josh",
+      "description": "Lovlina Borgohain Secures India's First CWG 2026 Medal Before Opening Ceremony&nbsp;&nbsp;Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDZzbGowRWtWRGRoYXI3NURpOC1KNmtKRXZGWXB4em5sbWtOZWVBa1h1WjZ2ZDVIQVZ6NHJoem1WZmt0OHN0eHlJdG5QMGR0YXp6WFZZMFV0Tm1MLW03aDlKSG43RkxnbGg5NFdDa0tDZnVuS1dOU1pTaVhWQTBNdWFNNlNXQ0l1WE9TUTd5OHBLemwwWnNacmxiWjVoeGNTWGpBTm9nZmp2Z3JPdVNfT9IBtwFBVV95cUxNLW4wZ3YzajRVeF8tUy1VcDJlR0t4ckE1NkhoU1JnbEFrblV6YURYLXhuc1VzVjhzYVQyRlFmUEptU2tTLW1SYmo4eVozU1RUS0YwZmh0OUZsWjJ3QzlfLTlnMXVNNDBlOUFsYVdzb1FlREw1Rjd6VkFrVUZ3SS0xOUZRbFJLSG9LMHduaWxGc0FXTlNWTHlWWGFJNFc3TXFvZ19uamxncnN1aUYtR21QMUxHd3F1Vmc?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T11:55:35.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVdIVXMyTURNUHJKSkd6M0NIWTZHMmVzMFZJVHlXZUxUcjZMUXB2VGNraVIxbFA1Vmo4UkdDdGY1cUlaMi1YbmUzcFJHUVJKaVI2em1OWVV3NWU0SFd6NTB3VEY1WTNjc0p3LVFMRlJ1RFI4cWxSNml2Q3RZVEZQa0Nfd1FCQmFG?oc=5",
+      "title": "Can We Stop Pretending ‘India’s Got Latent’ is Good Comedy? - Goa Chronicle",
+      "description": "Can We Stop Pretending ‘India’s Got Latent’ is Good Comedy?&nbsp;&nbsp;Goa Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVdIVXMyTURNUHJKSkd6M0NIWTZHMmVzMFZJVHlXZUxUcjZMUXB2VGNraVIxbFA1Vmo4UkdDdGY1cUlaMi1YbmUzcFJHUVJKaVI2em1OWVV3NWU0SFd6NTB3VEY1WTNjc0p3LVFMRlJ1RFI4cWxSNml2Q3RZVEZQa0Nfd1FCQmFG?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T05:14:55.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRG1OejE1YlUtWlkxMFZ0Wkc2NklxdXc3QV9zSUsyTWNWcTNZSndROFdFUmhMa21IMjFfanRkS3NMbkUtRGVRQlpJRlRWVnluSlFtYWwxZWZadzEzTFZmUTZEQU80TmlKSDNjOFgzTjVqRmMxMEp2dmM2Y3ZUSWg3TG9aVzZkUm5QT2RoR3IwS3NwT0NOSmtzTEUwLTRxMzNfdmxaY3V5Z1RjQlhyYTZ6d21URTJfQ3hHbGRVTDNCY2xsbnR2Y0R0TENhMC12VU4waTZTZGhZTzNKLWdSNmVySnJveWpOQdIB7AFBVV95cUxON0pNNWh4SUgwMXJkWHR1MGVDTmNHdG5raHR4dVE2UXFLdi1wQk9YbG5nZXhnTEJ5YV9hVXRGNGppZDBYdWpLbDJJRVdCQ0dLcmJSM0JrdklDUXhhbWREaDMtTHlZVU5fZDBmRzQ1ajVxUTJxWjFzdmpsX0FsX3dhRTAwQlEyRkxFZHBYVmNUc3VkNENKTE9VXzFFb2xjbGJoTUx1X3BSOVEyb0VXc1pXVTlPMDZYMkEwVTI0T1ZJMDBnYmNKajRQUkduZnBTUUZ3ZENxX2NRV2gyTUsxNDNJdFdZWUNRVDZHYVNyaQ?oc=5",
+      "title": "Indian Railways Becomes World’s Second-Most Electrified Rail Network: Complete List of Countries - Jagran Josh",
+      "description": "Indian Railways Becomes World’s Second-Most Electrified Rail Network: Complete List of Countries&nbsp;&nbsp;Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRG1OejE1YlUtWlkxMFZ0Wkc2NklxdXc3QV9zSUsyTWNWcTNZSndROFdFUmhMa21IMjFfanRkS3NMbkUtRGVRQlpJRlRWVnluSlFtYWwxZWZadzEzTFZmUTZEQU80TmlKSDNjOFgzTjVqRmMxMEp2dmM2Y3ZUSWg3TG9aVzZkUm5QT2RoR3IwS3NwT0NOSmtzTEUwLTRxMzNfdmxaY3V5Z1RjQlhyYTZ6d21URTJfQ3hHbGRVTDNCY2xsbnR2Y0R0TENhMC12VU4waTZTZGhZTzNKLWdSNmVySnJveWpOQdIB7AFBVV95cUxON0pNNWh4SUgwMXJkWHR1MGVDTmNHdG5raHR4dVE2UXFLdi1wQk9YbG5nZXhnTEJ5YV9hVXRGNGppZDBYdWpLbDJJRVdCQ0dLcmJSM0JrdklDUXhhbWREaDMtTHlZVU5fZDBmRzQ1ajVxUTJxWjFzdmpsX0FsX3dhRTAwQlEyRkxFZHBYVmNUc3VkNENKTE9VXzFFb2xjbGJoTUx1X3BSOVEyb0VXc1pXVTlPMDZYMkEwVTI0T1ZJMDBnYmNKajRQUkduZnBTUUZ3ZENxX2NRV2gyTUsxNDNJdFdZWUNRVDZHYVNyaQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T08:22:36.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5S3lnM2NYMFc5ZnZjX2tReDlwZXVlUlRTV2syb2VnSTRmWUlTOEhBSlNLU2JLRlNiYy13aG5LQjNwQ0dzMUViMWJSajRDN3l0TFZjUlBQZVNyWkNsMTQtZQ?oc=5",
+      "title": "Argentina Vs Spain: Lionel Messi Sets 2 Huge Records; Argentina Make Drastic Changes To Starting XI Tanner Scott (uxffvorXx4) - Mshale",
+      "description": "Argentina Vs Spain: Lionel Messi Sets 2 Huge Records; Argentina Make Drastic Changes To Starting XI Tanner Scott (uxffvorXx4)&nbsp;&nbsp;Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5S3lnM2NYMFc5ZnZjX2tReDlwZXVlUlRTV2syb2VnSTRmWUlTOEhBSlNLU2JLRlNiYy13aG5LQjNwQ0dzMUViMWJSajRDN3l0TFZjUlBQZVNyWkNsMTQtZQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-07-23T07:36:36.000Z"
     }
   ]
 }
